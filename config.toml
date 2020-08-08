@@ -1,5 +1,5 @@
 # default config
-baseURL = "https://boring-colden-6acf01.netlify.app"
+baseURL = "https://examplesite.org"
 languageCode = "ja"
 title = "Parsa Hugo | Personal Blog Template"
 theme = "parsa-hugo"
